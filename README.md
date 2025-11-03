@@ -13,7 +13,7 @@
     <a href="https://linkedin.com/in/inagadapu-priyanka">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:priyanka.inagadapu@example.com">
+    <a href="mailto:priyankainagadapu@gamil.com">
       <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </div>
