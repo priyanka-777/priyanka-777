@@ -46,7 +46,6 @@
 <h3> 📈 GitHub Stats</h3>
 <br>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyanka-777&show_icons=true&theme=onedark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-777&theme=onedark" />
+<p align="left">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-777&theme=onedark" />
 </p>
